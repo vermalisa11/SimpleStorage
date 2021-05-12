@@ -1,0 +1,27 @@
+{
+  "name": "SimpleStorage",
+  "version": "1.0.0",
+  "description": "simple storage smart contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "static-server public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vermalisa11/SimpleStorage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vermalisa11/SimpleStorage/issues"
+  },
+  "homepage": "https://github.com/vermalisa11/SimpleStorage#readme",
+  "dependencies": {
+    "web3": "^1.3.5"
+  }
+}
